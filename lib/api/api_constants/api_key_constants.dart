@@ -1,0 +1,36 @@
+class ApiKeyConstants {
+  static String guest = 'guest';
+  static String type = 'type';
+  static String token = 'token';
+  static String message = 'message';
+  static String error = 'error';
+  static String email = 'email';
+  static String otp = 'otp';
+  static String profileImage = 'profile_image';
+  static String name = 'name';
+  static String password = 'password';
+  static String username = 'username';
+  static String dob = 'dob';
+  static String gender = 'gender';
+  static String handicap = 'handicap';
+  static String handPreference = 'handPreference';
+  static String drivingDistance = 'drivingDistance';
+  static String shotShape = 'shotShape';
+  static String commonMiss = 'commonMiss';
+  static String clubStringIds = 'clubStringIds';
+  static String fairwayPercentage = 'fairwayPercentage';
+  static String search = 'search';
+  static String userIdToUnfollow = 'userIdToUnfollow';
+  static String userIdToFollow = 'userIdToFollow';
+  static String courseId = 'courseId';
+  static String latitude = 'Latitude';
+  static String longitude = 'Longitude';
+  static String userId = 'userId';
+  static String playingHandicap = 'playingHandicap';
+  static String teeId = 'teeId';
+  static String handicapSystemId = 'handicapSystemId';
+  static String selectedHandicap = 'selectedHandicap';
+  static String otherUsers = 'otherUsers';
+  static String userTeeId = 'userTeeId';
+  static String club = 'club';
+}
